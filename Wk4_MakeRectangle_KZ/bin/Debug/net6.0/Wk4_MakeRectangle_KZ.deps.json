@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Wk4_MakeRectangle_KZ/1.0.0": {
+        "runtime": {
+          "Wk4_MakeRectangle_KZ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wk4_MakeRectangle_KZ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
